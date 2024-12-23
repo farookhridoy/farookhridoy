@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Throughout my career, I've successfully delivered numerous web applications across various<br>industries, including e-commerce, content management, and enterprise solutions (ERP). I<br>take pride in my ability to work independently and as part of a collaborative team,<br>fostering effective communication and achieving project goals.<br><br>As a Laravel Developer with a proven track record, I am eager to leverage my expertise to<br>bring value to your projects and contribute to your organization's success. Whether you're<br>looking to build a new web application from the ground up or enhance an existing one, I am<br>prepared to take on the challenge and deliver exceptional results.<be>
+Throughout my career, I've successfully delivered numerous web applications across various<br>industries, including e-commerce, content management, and enterprise solutions (ERP). I<br>take pride in my ability to work independently and as part of a collaborative team,<br>fostering effective communication and achieving project goals.<br><br>As a Software Engineer with a proven track record, I am eager to leverage my expertise to<br>bring value to your projects and contribute to your organization's success. Whether you're<br>looking to build a new web application from the ground up or enhance an existing one, I am<br>prepared to take on the challenge and deliver exceptional results.<be>
 
 - 🔭 I’m currently working on Super Star Group as a Senior Software Engineer
 - 🌱 I’m currently learning on Big Data
